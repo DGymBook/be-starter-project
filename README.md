@@ -12,7 +12,11 @@
 
 ## Getting Started
 
-First, install the dependencies:
+First, fork this repository and clone your fork:
+
+**Please share your forked repository link when submitting.**
+
+Then, install the dependencies:
 
 ```bash
 bun install
